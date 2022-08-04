@@ -15,4 +15,4 @@ POSTMAN for my api testing,
 Markdown for my documentation,
 Github for my version control.
 
-My POSTMAN testing api [link](https://documenter.getpostman.com/view/22552721/UzryanSq)
+My POSTMAN testing api [link](https://documenter.getpostman.com/view/22552721/VUjLJS4k)
