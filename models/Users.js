@@ -4,6 +4,7 @@ const userSchema = new mongoose.Schema({
   donorId: {
     type: String,
     required: true,
+    unique:true,
   },
   name: {
     firstName: {
@@ -32,7 +33,7 @@ const userSchema = new mongoose.Schema({
 
   donorAddress: {
     type: String,
-    //required: true,
+    required: true,
     trim: true,
   },
 });
